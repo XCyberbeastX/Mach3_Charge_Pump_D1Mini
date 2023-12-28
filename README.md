@@ -16,10 +16,11 @@ The D1 Mini can be flashed using OTA through the 'ip/update' page after the firs
 
 ![Mach3 Config](images/Mach3Config.png)
 
+## Screenshots
 
+*Website image*
 
-
-
+![Webpage](images/Webpage.png)
 
 
 
