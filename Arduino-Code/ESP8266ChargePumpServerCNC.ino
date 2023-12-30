@@ -17,7 +17,7 @@ const char *password = "CHANGE ME";
 const byte MEASURE_PIN = 4;
 const byte RELAY_PIN = 5;
 const int THRESHOLD_FREQ = 25000;
-const int MAX_DEVIATION = 1000;
+const int MAX_DEVIATION = 5000;
 const int MIN_REPS = 2;
 const int TIMEOUT = 250;
 
